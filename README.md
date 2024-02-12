@@ -24,6 +24,10 @@ Converts your solana metadata into SEI compatible metadata
 }
 ```
 
+# How to run? 
+- Start a new terminal in the folder
+- Run `node index.js`
+
 # Tips
 - ETH/Polygon/Bsc: 0x077f13f2241149B03DacbF802e82F9F4AcAC1Dc3
 - Solana: 5VrRcctapQ2chk9cCdcaMEGgTtVPR71fasy7YDr7jLcQ
