@@ -26,6 +26,10 @@ Converts your solana metadata into SEI compatible metadata
 
 # How to run? 
 - Start a new terminal in the folder
+- change your collection name in index.js `line:6`
+```
+const collectionName = "SNOWSTUDIOS";
+```
 - Run `node index.js`
 
 # Tips
